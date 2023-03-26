@@ -1,0 +1,8 @@
+.navbar .navbar-nav .nav-link {
+    color: #111010;
+    font-size: 1.4em;
+}
+.navbar .navbar-nav .nav-link:hover {
+  background-color: #a36fce;
+  color: #6440e7;
+}
